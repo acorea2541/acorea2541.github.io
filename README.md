@@ -4,6 +4,8 @@
 ### Device Invention
 1. [Wireless Project](https://acorea2541.github.io/Wireless-Project/)
 My process of designing and making a tide tracker!
+2. [Data Visualization Project](https://acorea2541.github.io/dataviz/)
+Learning about effective data visualization, collecting data, and creating a design to display it!
 
 ### Computing
 1. [Day to Night Face Filter](https://acorea2541.github.io/daytonight/)
